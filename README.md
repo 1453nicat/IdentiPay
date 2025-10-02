@@ -10,7 +10,7 @@ IdentiPay is a prototype project that explores how face recognition technology c
 
 ### Lovable Website using This Notebook
 ---
-You can also check out IdentiPay's website[https://identipay-app.lovable.app/] in order to experience it live. Even though there are some minor issues, we have managed to handle the core stack.
+You can also check out [IdentiPay's website](https://identipay-app.lovable.app/) in order to experience it live. Even though there are some minor issues, we have managed to handle the core stack.
 
 ### Future Directions
 ---
@@ -20,4 +20,4 @@ Add privacy and security layers to protect user data.
 Explore scaling for nationwide public transportation.
 
 ###Licence
-All rights reserved by MLior8dCode[https://github.com/anormalguy96] and *1453nicat*.
+All rights reserved by [MLior8dCode](https://github.com/anormalguy96) and *1453nicat*.
